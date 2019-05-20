@@ -1,0 +1,15 @@
+{
+  "name": "entrega_1_scm",
+  "version": "1.0.0",
+  "description": "Primera entrega del curso Node.JS por Stiven Cuellar",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stiven Cuellar stivencuellar@gmail.com",
+  "license": "ISC"
+}
